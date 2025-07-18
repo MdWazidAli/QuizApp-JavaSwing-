@@ -71,7 +71,7 @@ Feel free to fork this repo and raise a Pull Request to improve questions, UI de
 
 **MD WAZID ALI**  
 📧 [mdwazidali01.cse@gmail.com]  
-🌐 [LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/md-wazid-ali-a8796123b/)) 
+🌐 https://www.linkedin.com/in/md-wazid-ali-a8796123b/ 
 
 ---
 
